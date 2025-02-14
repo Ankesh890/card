@@ -1,0 +1,15 @@
+#Container {
+    height: 600px;
+    width: 350px;
+    margin-left: 39%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#main {
+    text-align: center;
+}
+#main>h1 {
+    color: goldenrod;
+}
+#main>h3 {
+    color: slategray;
+}
